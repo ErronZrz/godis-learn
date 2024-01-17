@@ -1,12 +1,12 @@
 package persistent
 
 import (
-	"godis-instruction/datastruct/dict"
-	"godis-instruction/datastruct/list"
-	"godis-instruction/datastruct/set"
-	"godis-instruction/interface/dbinterface"
-	"godis-instruction/interface/redis"
-	"godis-instruction/redis/protocol"
+	"godis-learn/datastruct/dict"
+	"godis-learn/datastruct/list"
+	"godis-learn/datastruct/set"
+	"godis-learn/interface/dbinterface"
+	"godis-learn/interface/redis"
+	"godis-learn/redis/protocol"
 	"strconv"
 	"time"
 )

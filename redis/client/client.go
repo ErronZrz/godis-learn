@@ -2,11 +2,11 @@ package client
 
 import (
 	"errors"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/logger"
-	"godis-instruction/lib/sync/wait"
-	"godis-instruction/redis/parse"
-	"godis-instruction/redis/protocol"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/logger"
+	"godis-learn/lib/sync/wait"
+	"godis-learn/redis/parse"
+	"godis-learn/redis/protocol"
 	"net"
 	"runtime/debug"
 	"strings"

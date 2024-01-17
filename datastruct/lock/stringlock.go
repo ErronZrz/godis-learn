@@ -1,7 +1,7 @@
 package lock
 
 import (
-	"godis-instruction/lib/utils"
+	"godis-learn/lib/utils"
 	"sort"
 	"sync"
 )

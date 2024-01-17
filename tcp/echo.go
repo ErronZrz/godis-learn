@@ -3,9 +3,9 @@ package tcp
 import (
 	"bufio"
 	"context"
-	"godis-instruction/lib/logger"
-	"godis-instruction/lib/sync/atomic"
-	"godis-instruction/lib/sync/wait"
+	"godis-learn/lib/logger"
+	"godis-learn/lib/sync/atomic"
+	"godis-learn/lib/sync/wait"
 	"io"
 	"net"
 	"sync"

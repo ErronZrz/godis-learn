@@ -1,14 +1,14 @@
 package persistent
 
 import (
-	"godis-instruction/config"
-	"godis-instruction/interface/dbinterface"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/logger"
-	"godis-instruction/lib/utils"
-	"godis-instruction/redis/connection"
-	"godis-instruction/redis/parse"
-	"godis-instruction/redis/protocol"
+	"godis-learn/config"
+	"godis-learn/interface/dbinterface"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/logger"
+	"godis-learn/lib/utils"
+	"godis-learn/redis/connection"
+	"godis-learn/redis/parse"
+	"godis-learn/redis/protocol"
 	"io"
 	"os"
 	"strconv"

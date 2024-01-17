@@ -2,11 +2,11 @@ package database
 
 import (
 	"fmt"
-	"godis-instruction/interface/dbinterface"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/logger"
-	"godis-instruction/persistent"
-	"godis-instruction/redis/protocol"
+	"godis-learn/interface/dbinterface"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/logger"
+	"godis-learn/persistent"
+	"godis-learn/redis/protocol"
 	"runtime/debug"
 )
 

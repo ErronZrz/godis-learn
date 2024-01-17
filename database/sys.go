@@ -1,9 +1,9 @@
 package database
 
 import (
-	"godis-instruction/config"
-	"godis-instruction/interface/redis"
-	"godis-instruction/redis/protocol"
+	"godis-learn/config"
+	"godis-learn/interface/redis"
+	"godis-learn/redis/protocol"
 )
 
 func Ping(_ *DB, line redis.Line) redis.Reply {

@@ -3,12 +3,12 @@ package cluster
 import (
 	"bytes"
 	"encoding/base64"
-	"godis-instruction/config"
-	"godis-instruction/database"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/utils"
-	"godis-instruction/redis/parse"
-	"godis-instruction/redis/protocol"
+	"godis-learn/config"
+	"godis-learn/database"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/utils"
+	"godis-learn/redis/parse"
+	"godis-learn/redis/protocol"
 	"strconv"
 )
 

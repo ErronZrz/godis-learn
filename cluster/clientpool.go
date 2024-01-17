@@ -4,9 +4,9 @@ import (
 	"context"
 	"errors"
 	pool "github.com/jolestar/go-commons-pool/v2"
-	"godis-instruction/config"
-	"godis-instruction/lib/utils"
-	"godis-instruction/redis/client"
+	"godis-learn/config"
+	"godis-learn/lib/utils"
+	"godis-learn/redis/client"
 )
 
 type connectionFactory struct {

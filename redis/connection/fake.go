@@ -2,7 +2,7 @@ package connection
 
 import (
 	"bytes"
-	"godis-instruction/interface/redis"
+	"godis-learn/interface/redis"
 )
 
 type FakeConn struct {

@@ -2,10 +2,10 @@ package cluster
 
 import (
 	"context"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/utils"
-	"godis-instruction/redis/client"
-	"godis-instruction/redis/protocol"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/utils"
+	"godis-learn/redis/client"
+	"godis-learn/redis/protocol"
 	"strconv"
 )
 

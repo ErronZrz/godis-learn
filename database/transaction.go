@@ -2,8 +2,8 @@ package database
 
 import (
 	"fmt"
-	"godis-instruction/interface/redis"
-	"godis-instruction/redis/protocol"
+	"godis-learn/interface/redis"
+	"godis-learn/redis/protocol"
 )
 
 func StartMulti(conn redis.Connection) redis.Reply {

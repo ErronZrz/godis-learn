@@ -2,12 +2,12 @@ package hub
 
 import (
 	"fmt"
-	"godis-instruction/datastruct/dict"
-	"godis-instruction/datastruct/list"
-	"godis-instruction/datastruct/lock"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/utils"
-	"godis-instruction/redis/protocol"
+	"godis-learn/datastruct/dict"
+	"godis-learn/datastruct/list"
+	"godis-learn/datastruct/lock"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/utils"
+	"godis-learn/redis/protocol"
 )
 
 type Hub struct {

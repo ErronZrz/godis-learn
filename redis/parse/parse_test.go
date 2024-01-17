@@ -3,9 +3,9 @@ package parse
 import (
 	"bytes"
 	"fmt"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/utils"
-	"godis-instruction/redis/protocol"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/utils"
+	"godis-learn/redis/protocol"
 	"io"
 	"testing"
 )

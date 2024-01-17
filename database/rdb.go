@@ -3,12 +3,12 @@ package database
 import (
 	"github.com/hdt3213/rdb/core"
 	rdb "github.com/hdt3213/rdb/parser"
-	"godis-instruction/config"
-	"godis-instruction/datastruct/dict"
-	"godis-instruction/datastruct/list"
-	"godis-instruction/datastruct/set"
-	"godis-instruction/interface/dbinterface"
-	"godis-instruction/lib/logger"
+	"godis-learn/config"
+	"godis-learn/datastruct/dict"
+	"godis-learn/datastruct/list"
+	"godis-learn/datastruct/set"
+	"godis-learn/interface/dbinterface"
+	"godis-learn/lib/logger"
 	"os"
 )
 

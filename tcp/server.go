@@ -2,8 +2,8 @@ package tcp
 
 import (
 	"context"
-	"godis-instruction/interface/tcp"
-	"godis-instruction/lib/logger"
+	"godis-learn/interface/tcp"
+	"godis-learn/lib/logger"
 	"net"
 	"os"
 	"os/signal"

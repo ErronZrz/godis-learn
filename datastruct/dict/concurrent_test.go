@@ -1,7 +1,7 @@
 package dict
 
 import (
-	"godis-instruction/lib/utils"
+	"godis-learn/lib/utils"
 	"strconv"
 	"sync"
 	"testing"

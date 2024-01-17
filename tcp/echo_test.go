@@ -3,7 +3,7 @@ package tcp
 import (
 	"bufio"
 	"fmt"
-	"godis-instruction/lib/logger"
+	"godis-learn/lib/logger"
 	"math/rand"
 	"net"
 	"strconv"

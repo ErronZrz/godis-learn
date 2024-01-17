@@ -1,9 +1,9 @@
 package database
 
 import (
-	"godis-instruction/interface/dbinterface"
-	"godis-instruction/lib/logger"
-	"godis-instruction/lib/timewheel"
+	"godis-learn/interface/dbinterface"
+	"godis-learn/lib/logger"
+	"godis-learn/lib/timewheel"
 	"time"
 )
 

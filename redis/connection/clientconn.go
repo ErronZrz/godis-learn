@@ -1,8 +1,8 @@
 package connection
 
 import (
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/sync/wait"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/sync/wait"
 	"net"
 	"sync"
 	"time"

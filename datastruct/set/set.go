@@ -1,6 +1,6 @@
 package set
 
-import "godis-instruction/datastruct/dict"
+import "godis-learn/datastruct/dict"
 
 type Consumer func(string) bool
 

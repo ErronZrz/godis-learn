@@ -1,7 +1,7 @@
 package dbinterface
 
 import (
-	"godis-instruction/interface/redis"
+	"godis-learn/interface/redis"
 	"time"
 )
 

@@ -2,10 +2,10 @@ package database
 
 import (
 	"fmt"
-	"godis-instruction/datastruct/dict"
-	"godis-instruction/datastruct/lock"
-	"godis-instruction/interface/redis"
-	"godis-instruction/redis/protocol"
+	"godis-learn/datastruct/dict"
+	"godis-learn/datastruct/lock"
+	"godis-learn/interface/redis"
+	"godis-learn/redis/protocol"
 )
 
 const (

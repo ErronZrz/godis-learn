@@ -3,8 +3,8 @@ package protocol
 import (
 	"bytes"
 	"fmt"
-	"godis-instruction/interface/redis"
-	"godis-instruction/lib/utils"
+	"godis-learn/interface/redis"
+	"godis-learn/lib/utils"
 )
 
 var (

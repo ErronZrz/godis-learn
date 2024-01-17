@@ -1,7 +1,7 @@
 package client
 
 import (
-	"godis-instruction/lib/sync/wait"
+	"godis-learn/lib/sync/wait"
 	"net"
 )
 

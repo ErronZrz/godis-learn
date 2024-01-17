@@ -2,7 +2,7 @@ package config
 
 import (
 	"bufio"
-	"godis-instruction/lib/logger"
+	"godis-learn/lib/logger"
 	"io"
 	"os"
 	"reflect"
