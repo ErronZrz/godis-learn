@@ -1,4 +1,4 @@
-module godis-instruction
+module godis-learn
 
 go 1.19
 
